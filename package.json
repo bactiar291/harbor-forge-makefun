@@ -1,0 +1,9 @@
+{
+  "name": "harbor-forge-makefun",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.18.0" },
+  "scripts": { "start": "node main.ts", "test": "node --test test/core.test.ts" }
+}
